@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "mg3",
+    "slug": "mg3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "559519b9-7c71-4342-b711-62775e4e6f25"
+      }
+    }
+  },
+  "name": "mg3"
+}
