@@ -109,7 +109,7 @@ const Penerbangan = ({ navigation }) => {
           />
         </ScrollView>
       </SafeAreaView>
-      <Text style={styles.copyright}>Copyright Emirssyah Putra - 1201400169</Text>
+      <Text style={styles.copyright}>Copyright Muhammad Haikal Fauzananda - 1201400168</Text>
     </View>
   );
 }
